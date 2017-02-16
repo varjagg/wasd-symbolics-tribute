@@ -1,1 +1,3 @@
-# wasd-symbolics-tribute
+# A Symbolics keyboard tribute layout for WASD keyboards
+
+
